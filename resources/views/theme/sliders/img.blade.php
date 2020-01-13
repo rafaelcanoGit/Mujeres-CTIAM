@@ -1,0 +1,1 @@
+<img class="imgTabla" src="{{asset($rutaPublica)}}">

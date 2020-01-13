@@ -1,0 +1,128 @@
+.skin-blue .main-header .navbar {
+    background-color: #c50083;
+}
+.skin-blue .main-header .logo {
+    background-color: #c50083;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #c50083;
+}
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+.skin-blue .main-header .logo:hover {
+    background-color: rgba(0,0,0,0.1)
+
+}
+.btn-primary {
+    background-color: #c50083;
+    border-color: #811a5f;
+}
+.btn-primary:hover {
+    background-color: #d4379d
+}
+.btn-primary:active {
+background-color: #d4379d
+}
+.btn-primary:focus {
+    background-color: #d4379d
+}
+
+.btn-warning {
+    background-color: #cc2c9c;
+    border-color: #cc2c9c;
+}
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning.hover {
+    background-color: #811a5f
+}
+.btn-danger {
+    background-color: #811a5f;
+    border-color: #811a5f;
+}
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger.hover {
+    background-color: #cc2c9c
+}
+a {
+    color: #c30483;
+}
+.box.box-primary {
+    border-top-color: #c30483;
+}
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #c30483;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+/*.skin-blue .main-sidebar{
+    background-color: #c50083;
+}
+
+.skin-blue .sidebar-menu>li.header {
+    color: #ffffff;
+    background: #b40478;
+}
+.skin-blue .sidebar-menu>li.menu-open>a {
+    color: #ffffff;
+    background: #b40478;
+}
+.skin-blue .sidebar-menu .treeview-menu>li>a {
+    color: #ffffff;
+}
+.skin-blue .sidebar a {
+    color: #ffffff;
+}
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    margin: 0 1px;
+    background: #d4379d;
+}
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li.menu-open>a {
+	color: #fff;
+	background: #b40478
+}*/
+
+.skin-blue .sidebar-menu>li.active>a {
+    border-left-color: #c50083;
+}
+.login-page {
+    height: auto;
+    background: #c50083;
+}
+
+
+.center {
+    padding: 10px;
+    margin: auto;
+    display: block;
+    max-width: 250px;
+    max-height: 250px
+}
+
+.redondear {
+    border-radius: 20px;
+}
+
+hr {
+    clear: both;
+    visibility: hidden;
+}
+
+.bg-aqua-active, .modal-info .modal-header, .modal-info .modal-footer {
+    background-color: #c50083 !important;
+}
+
+.imgTabla {
+    height: 100px;
+    width: 200px;
+}

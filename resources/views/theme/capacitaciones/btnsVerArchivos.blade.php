@@ -1,0 +1,1 @@
+<a href="gestionarArchivosCapacitacion/{{$id}}"><i class="fa fa-file-text"></i></a>

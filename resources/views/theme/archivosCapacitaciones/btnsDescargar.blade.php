@@ -1,0 +1,1 @@
+<a href="{{route('descargar_archivocapacitacion',['idc' => $capacitacion_id,'id' => $id])}}"><img src={{asset("iconos/$extension.png")}}></a>

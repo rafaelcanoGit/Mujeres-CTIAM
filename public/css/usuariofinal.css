@@ -1,0 +1,182 @@
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 5px 0;
+    background-color: rgb(197, 0, 131);
+    z-index: 2;
+}
+
+footer {
+    padding: 35px 0;
+    background-color: #c50083;
+}
+
+.logo img {
+	display: block;
+	width: 60px; 
+	height: auto;
+}
+
+.imgLogo {
+    height: 60px;
+    width: 220px;
+}
+
+.txt-slide a {
+    position: relative;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 20px 0 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    z-index: 1;
+    background-color: #c50083;
+}
+
+.enviar {
+    -webkit-appearance: none;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
+    background-color: #811a5f;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.slide-home .slick-dots li.slick-active button {
+    color: #fff;
+    opacity: 1;
+    background-color: #c50083;
+}
+
+.banner {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    height: 300px;
+    padding: 80px 0 0;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #d4379d;
+}
+
+.categorias li.active a,
+.categorias li a:hover {
+	color: #d4379d;
+}
+
+/* Paginacion */
+
+.paginacion {
+    box-sizing: border-box;
+    padding: 35px 20px 0;
+    text-align: center;
+}
+
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: #a1a1a2;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+ul.pagination li a.active {
+    background-color: #c50083;
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+ul.pagination li a:hover:not(.active) {
+    background-color: #d65eae;
+    color: white;
+}
+
+
+/*-------------------------------------*/
+
+.ver-pdf {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 20px 0 0;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #c50083;
+    cursor: pointer;
+}
+
+.descargar {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 20px 0 0;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #c50083;
+    cursor: pointer;
+}
+
+.img-testimonio {
+    background-color: #c50083;
+}
+
+.item-testimonio.derecha .img-testimonio {
+    background-color: #c50083;
+}
+
+.row-apuesta h2:after, .row-proyectos h2:after, .row-testimonio h2:after, .row-title h2:after {
+    background-color: #c50083;
+}
+
+a {
+    color: #c50083;
+}
+
+.breadcrumbs li a:hover {
+	color: #c50083;
+}
+
+.slide-1 .txt-slide h1 {
+    color: #c50083;
+}
+
+.dumar {
+    display: block;
+    padding: 10px 0 30px;
+}
+
+.categorias {
+    display: block;
+    padding: 15px 0 40px;
+    text-align: center;
+}
+
+.sidebar-form {
+    width: 40%;
+}
+
+hr {
+    clear: both;
+    visibility: hidden;
+}
